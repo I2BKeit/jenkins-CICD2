@@ -1,2 +1,2 @@
-FROM httpd:lalest
+FROM httpd:latest
 COPY index.html /var/www/html/
